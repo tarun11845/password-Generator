@@ -20,7 +20,7 @@ It allows users to generate strong, secure passwords with options for length and
 
 ## 🖼️ Demo
 [🔗 Live Demo](https://passwordgenerator1112.netlify.app/)  
-*(Replace with your actual deployment link, e.g., GitHub Pages, Vercel, or Netlify)*
+
 
 ---
 
